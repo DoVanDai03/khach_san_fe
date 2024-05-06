@@ -160,7 +160,7 @@
                                         <div class="modal-content">
                                             <div class="modal-body">
                                                 <div class="modal-body">
-                                                    <span v-html="mo_ta_chi_tiet.mo_ta_chi_tiet"></span>
+                                                    {{ mo_ta_chi_tiet.mo_ta_chi_tiet }}
                                                 </div>
                                             </div>
                                         </div>
