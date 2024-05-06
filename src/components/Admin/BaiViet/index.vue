@@ -160,6 +160,7 @@
                                         <div class="modal-content ">
                                             <div class="modal-body ">
                                                     {{ mo_ta_chi_tiet.mo_ta_chi_tiet }}
+                                                    <!-- {{ mo_ta_chi_tiet.mo_ta_chi_tiet }} -->
                                             </div>
                                         </div>
                                     </div>
