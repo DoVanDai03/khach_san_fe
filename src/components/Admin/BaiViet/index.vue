@@ -156,12 +156,10 @@
                                 </div>
                                 <div class="modal fade" id="motachitiet" tabindex="-1"
                                     aria-labelledby="exampleModalLabel" aria-hidden="true">
-                                    <div class="modal-dialog">
-                                        <div class="modal-content">
-                                            <div class="modal-body">
-                                                <div class="modal-body">
+                                    <div class="modal-dialog text-wrap modal-xl" >
+                                        <div class="modal-content ">
+                                            <div class="modal-body ">
                                                     {{ mo_ta_chi_tiet.mo_ta_chi_tiet }}
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
